@@ -33,6 +33,10 @@ extra-deps:
 - ethereum-analyzer-deps-1.3.0
 - global-lock-0.1
 - BNFC-2.8.1
+- binary-0.8.2.1
+- directory-1.2.7.1
+- process-1.2.3.0
+- unix-2.7.2.2
 - https://github.com/CIFASIS/megadeth/archive/master.zip
   
 - https://bitbucket.org/jmg/global-variables/get/6bbea1933b8e.zip
